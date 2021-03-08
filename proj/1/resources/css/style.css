@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* HEADINGS */
+
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: crimson;
+}
+
+.header--secondary {
+    font-weight: 300;
+    font-size:42px;
+    color:maroon;
+}
+
+.header--sub-header {
+    color: darkred;
+    font-size: 21px;
+}
+
+/* LINKS */
+
+.link--cta {
+    font-size: 16px;
+    color: red;
+    font-style: italic;
+}
+
+/* FOOTER */
+
+.footer--info {
+    text-align: right;
+    font-size: small;
+    color: gray;
+}
